@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    background: url(babyko.jpg);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .love-letter {
+    width: 400px;
+    background-color: #ffffff00;
+    padding: 20px;
+    border-radius: 10px;
+    
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .header h1 {
+    font-size: 30px;
+    color: #ff6b6b;
+    margin-bottom: 5px;
+  }
+  
+  .header p {
+    font-size: 14px;
+    color: #b10099;
+  }
+  
+  .content p {
+  font-family: Arial, sans-serif;
+  font-style: italic;
+    font-size: 20px;
+    color: #b10099;
+    margin-bottom: 10px;
+  }
